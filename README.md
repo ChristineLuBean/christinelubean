@@ -10,7 +10,7 @@
 <p align="left"> When I’m not coding, drawing, or writing, I’m playing video games with my husband while being harassed by my two cats.</p>
 
 <p align="left"> <a href="https://twitter.com/christinelubean" target="blank"><img src="https://img.shields.io/twitter/follow/christinelubean?logo=twitter&style=for-the-badge" alt="christinelubean" /></a> </p>
-<p align="left"> <img src="https://www.codewars.com/users/ChristineLuBean/badges/small alt="christinelubean codewars" /> </p>
+<p align="left"> ![image](https://www.codewars.com/users/ChristineLuBean/badges/small) </p>
   
 - 👨‍💻 All of my projects are available at [christinelubean.com](christinelubean.com)
 
