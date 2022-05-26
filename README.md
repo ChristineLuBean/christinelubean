@@ -14,6 +14,7 @@
 <p align="left"> <a href="https://twitter.com/christinelubean" target="blank"><img src="https://img.shields.io/twitter/follow/christinelubean?logo=twitter&style=for-the-badge" alt="christinelubean" /></a> </p>
 <a href="https://app.daily.dev/bansplady" target="_blank"><img src="https://api.daily.dev/devcards/85b908be1bac4e8e8969870228512451.png?r=h31" width="256" align="right" alt="Christine LuBean's Dev Card"/></a>
 </div>
+
 ![image](https://www.codewars.com/users/ChristineLuBean/badges/small)
 
 - 👨‍💻 All of my projects are available at [christinelubean.com](christinelubean.com)
