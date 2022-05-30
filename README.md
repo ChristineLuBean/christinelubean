@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Christine LuBean 👋</h1>
 <h3 align="center">I’m a software engineer, writer, and artist living in Washington state.</h3>
 
-<p align="left"> My love of solving problems and learning how things work lead me to teaching myself how to create websites when I was 11. I went from a kid with a beaten up HTML manual to a full-stack developer over the course of my teenage and young adulthood years.</p>
+<p align="left"> My love of solving problems and learning how things work led me to teaching myself how to create websites when I was 11. I went from a kid with a beaten up HTML manual to a full-stack developer over the course of my teenage and young adulthood years.</p>
 
 <div align="left">
 <p align="left">I am a self-motivated and self-directed worker. I can adapt quickly to changes in priorities and maintain a positive attitude and a strong work ethic with a high level of professionalism. My personal strengths include creativity, an innovative outlook on challenges, good interpersonal skills and the ability to multitask. My work experience has enabled me to gain a better understanding of people from different cultural backgrounds and their needs while utilizing the skills that I possess for the benefit of others.</p>
