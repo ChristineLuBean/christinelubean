@@ -1,6 +1,7 @@
-<h1 align="center">Hello! I'm Christine LuBean 👋</h1>
+<img src="https://github.com/ChristineLuBean/christinelubean/blob/main/header.png?raw=true" alt="Hi I'm Christine LuBean">
+<hr>
 <h3 align="center">I’m a software engineer, writer, and artist living in Washington state.</h3>
-
+<hr>
 <p align="left"> My love of solving problems and learning how things work led me to teaching myself how to create websites when I was 11. I went from a kid with a beaten up HTML manual to a full-stack developer over the course of my teenage and young adulthood years.</p>
 
 <div align="left">
@@ -12,10 +13,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/christinelubean" target="blank"><img src="https://img.shields.io/twitter/follow/christinelubean?logo=twitter&style=for-the-badge" alt="christinelubean" /></a> </p>
-<a href="https://app.daily.dev/bansplady" target="_blank"><img src="https://api.daily.dev/devcards/85b908be1bac4e8e8969870228512451.png?r=h31" width="256" align="right" alt="Christine LuBean's Dev Card"/></a>
-</div>
 
-![image](https://www.codewars.com/users/ChristineLuBean/badges/small)
 
 - 👨‍💻 All of my projects are available at [christinelubean.com](christinelubean.com)
 
@@ -30,16 +28,31 @@
 <a href="https://instagram.com/christinelubean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christinelubean" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻Tech Stack</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>        
 </p>
 
 
   ![image](https://svgshare.com/i/Zhy.svg)
   ![image](https://svgshare.com/i/ZhY.svg)
  
+
+<details> 
+  <summary><h3>📊 My Stats</h3></summary>
+  
+[![](https://visitcount.itsvg.in/api?id=christinelubean&icon=0&color=11)](https://visitcount.itsvg.in)  
+
+![](https://www.codewars.com/users/ChristineLuBean/badges/small)
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=christinelubean&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+![](https://github-readme-stats.vercel.app/api?username=christinelubean&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=christinelubean&theme=midnight-purple&hide_border=false)
+    
+</details>
