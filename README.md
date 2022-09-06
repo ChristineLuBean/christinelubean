@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Red+Hat+Mono&size=20&duration=1500&color=DB7B7B&vCenter=true&multiline=true&width=435&lines=Hi%2C+%F0%9F%91%8B;+I'm+Christine+LuBean)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Red+Hat+Mono&duration=1500&color=DB7B7B&multiline=true&width=609&lines=Hi%2C+%F0%9F%91%8B;+I'm+Christine+LuBean)](https://git.io/typing-svg)
 <hr>
 <h3 align="center">I’m a software engineer, writer, and artist living in Washington state.</h3>
 <hr>
