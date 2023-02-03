@@ -2,28 +2,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=750&color=DB7978&center=true&width=435&lines=Hi%2C+%F0%9F%91%8B;I'm+Christine+LuBean;I'm+a+cybersecurity+professional+%F0%9F%94%91%2C;software+engineer+%F0%9F%92%BB%2C;writer+%E2%9C%8F%EF%B8%8F%2C++and+artist+%F0%9F%96%8C%EF%B8%8F;Take+your+time+to+look+around+%F0%9F%91%80;and+check+out+all+my+projects" alt="Typing SVG" /></a>
 <p>
 <hr>
-<p align="left"> My love of solving problems and learning how things work led me to teaching myself how to create websites when I was 11. I went from a kid with a beaten up HTML manual to a full-stack developer over the course of my teenage and young adulthood years.</p>
+<p align="left">My love of problem-solving and fascination with technology led me to teach myself web development at  11. Over the years, I've honed my skills, going from a kid with a beaten up HTML manual to a full-stack developer specializing in web application security.</p>
 
-<div align="left">
-<p align="left">I am a self-motivated and self-directed worker. I can adapt quickly to changes in priorities and maintain a positive attitude and a strong work ethic with a high level of professionalism. My personal strengths include creativity, an innovative outlook on challenges, good interpersonal skills and the ability to multitask. My work experience has enabled me to gain a better understanding of people from different cultural backgrounds and their needs while utilizing the skills that I possess for the benefit of others.</p>
+<p align="left">As a freelance developer and software engineer at 100Devs, I use my coding and penetration testing skills to create secure and accessible websites and web apps. My background in communication and experiences with different audiences and clients allows me to bring value and integrity to every project.</p>
 
-<p align="left"> At the moment, I’m working as a freelance developer and a software engineer at 100Devs. Using my skills as a designer and programmer, I create beautiful and accessible websites and web apps.</p>
-
-<p align="left"> When I’m not coding, drawing, or writing, I’m playing video games with my husband while being harassed by my two cats.</p>
-
-
-<p align="left"> <a href="https://twitter.com/christinelubean" target="blank"><img src="https://img.shields.io/twitter/follow/christinelubean?logo=twitter&style=for-the-badge" alt="christinelubean" /></a> </p>
-
+<p align="left">When I’m not coding or keeping up with the latest news in cyber security, I enjoy drawing, writing, and gaming with my husband while my two mischievous cats beg us for attention.</p>
 
 - 👨‍💻 All of my projects are available at [christinelubean.com](christinelubean.com)
 
 - 📫 How to reach me **christinemlubean@gmail.com**
   
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/christinelubean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christinelubean" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/christinelubean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christinelubean" height="30" width="40" /></a>
 <a href="https://instagram.com/christinelubean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christinelubean" height="30" width="40" /></a>
 </p>
