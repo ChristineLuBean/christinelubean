@@ -4,7 +4,7 @@
 <hr>
 <p align="left">My love of problem-solving and fascination with technology led me to teach myself web development at  11. Over the years, I've honed my skills, going from a kid with a beaten up HTML manual to a full-stack developer specializing in web application security.</p>
 
-<p align="left">As a freelance developer and software engineer at 100Devs, I use my coding and penetration testing skills to create secure and accessible websites and web apps. My background in communication and experiences with different audiences and clients allows me to bring value and integrity to every project.</p>
+<p align="left">As a freelance developer and software engineer at 100Devs, I use my coding and penetration testing skills to create secure and accessible websites and web apps. My background in communication and experiences with different audiences and clients allows me to bring trust and value to every project.</p>
 
 <p align="left">When I’m not coding or keeping up with the latest news in cyber security, I enjoy drawing, writing, and gaming with my husband while my two mischievous cats beg us for attention.</p>
 
