@@ -8,7 +8,7 @@
 
 <p align="left">When I’m not coding or keeping up with the latest news in cyber security, I enjoy drawing, writing, and gaming with my husband while my two mischievous cats beg us for attention.</p>
 
-- 👨‍💻 All of my projects are available at [christinelubean.com](christinelubean.com)
+- 👨‍💻 All of my projects are available at [christinelubean.com](https://christinelubean.com)
 
 - 📫 How to reach me **christinemlubean@gmail.com**
   
