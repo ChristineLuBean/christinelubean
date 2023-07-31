@@ -30,11 +30,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>        
 </p>
 
-
-  ![image](https://svgshare.com/i/Zhy.svg)
-  ![image](https://svgshare.com/i/ZhY.svg)
- 
-
 <details> 
   <summary><h3>📊 My Stats</h3></summary>
   
