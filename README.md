@@ -25,21 +25,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />   
 </p>
-
-<details> 
-  <summary><h3>📊 My Stats</h3></summary>
-  
-[![](https://visitcount.itsvg.in/api?id=christinelubean&icon=0&color=11)](https://visitcount.itsvg.in)  
-
-![](https://www.codewars.com/users/ChristineLuBean/badges/small)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=christinelubean&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-![](https://github-readme-stats.vercel.app/api?username=christinelubean&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=christinelubean&theme=midnight-purple&hide_border=false)
-    
-</details>
